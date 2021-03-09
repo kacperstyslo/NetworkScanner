@@ -24,4 +24,6 @@ On Linux:
     * Quick
     * Intense
     * Single target
-    
+
+## The script view
+![scan](https://user-images.githubusercontent.com/57534862/110455849-2efc4a80-80c9-11eb-9e01-eea37547b035.png)
